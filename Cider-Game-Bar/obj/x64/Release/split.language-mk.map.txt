@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-mk"
+"ResourceDimensions"		"language-mk-mk"
+
+[Files]
+"C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\obj\x64\Release\split.language-mk.pri"			"resources.pri"

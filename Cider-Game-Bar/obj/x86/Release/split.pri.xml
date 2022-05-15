@@ -1,0 +1,1633 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="9f983140-2ae4-4fda-9025-e7c8affe256e" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>LIGHTUNPLATED,UNPLATED</AlternateForm>
+			<Language>EN-US,EN-GB</Language>
+			<Scale>200</Scale>
+			<TargetSize>256,16,24,32,48</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Cider-Game-Bar.xr.xml" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Cider-Game-Bar.xr.xml">
+				<Candidate type="Path">
+					<Value>Cider-Game-Bar.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Widget1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Widget1.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LargeTile.png" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Assets/LargeTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LargeTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallTile.png" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Assets/SmallTile.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SmallTile.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-48, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-24" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16, AlternateForm-LIGHTUNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.UI.Xaml">
+				<ResourceMapSubtree name="Assets">
+					<NamedResource name="NoiseAsset_256X256_PNG.png" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Assets/NoiseAsset_256X256_PNG.png">
+						<Candidate type="Path">
+							<Value>Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="DensityStyles">
+					<NamedResource name="Compact.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/DensityStyles/Compact.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="CompactDatePickerTimePickerFlyout.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/DensityStyles/CompactDatePickerTimePickerFlyout.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="19h1_compact_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/19h1_compact_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="19h1_compact_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/19h1_compact_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="19h1_generic.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/19h1_generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="19h1_generic_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/19h1_generic_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="19h1_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/19h1_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="19h1_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/19h1_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="21h1_compact_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/21h1_compact_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="21h1_compact_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/21h1_compact_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="21h1_generic.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/21h1_generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="21h1_generic_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/21h1_generic_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="21h1_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/21h1_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="21h1_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/21h1_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs2_compact_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs2_compact_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs2_compact_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs2_compact_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs2_generic.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs2_generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs2_generic_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs2_generic_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs2_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs2_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs2_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs2_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs3_compact_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs3_compact_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs3_compact_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs3_compact_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs3_generic.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs3_generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs3_generic_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs3_generic_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs3_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs3_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs3_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs3_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs4_compact_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs4_compact_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs4_compact_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs4_compact_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs4_generic.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs4_generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs4_generic_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs4_generic_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs4_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs4_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs4_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs4_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs5_compact_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs5_compact_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs5_compact_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs5_compact_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs5_generic.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs5_generic.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs5_generic_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs5_generic_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs5_themeresources.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs5_themeresources.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="rs5_themeresources_v1.xbf" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Microsoft.UI.Xaml/Themes/rs5_themeresources_v1.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.UI.Xaml">
+			<ResourceMapSubtree name="Resources">
+				<NamedResource name="AutomationNameAlphaSlider" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameAlphaSlider">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Opacity</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Opacity</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameAlphaTextBox" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameAlphaTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Opacity</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Opacity</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameBlueTextBox" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameBlueTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Blue</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Blue</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameColorModelComboBox" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameColorModelComboBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Color model</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Colour model</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameColorSpectrum" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameColorSpectrum">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Color picker</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Colour picker</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameEllipsisBreadcrumbBarItem" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameEllipsisBreadcrumbBarItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameGreenTextBox" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameGreenTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Green</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Green</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameHexTextBox" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameHexTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>RGB hex</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>RGB hex</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameHueSlider" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameHueSlider">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Hue</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Hue</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameHueTextBox" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameHueTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Hue</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Hue</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameMoreButtonCollapsed" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameMoreButtonCollapsed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameMoreButtonExpanded" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameMoreButtonExpanded">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Less</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Less</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameRedTextBox" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameRedTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Red</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Red</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameSaturationSlider" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameSaturationSlider">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Saturation</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Saturation</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameSaturationTextBox" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameSaturationTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Saturation</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Saturation</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameValueSlider" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameValueSlider">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Value (Brightness)</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Brightness</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutomationNameValueTextBox" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/AutomationNameValueTextBox">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Value (Brightness)</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Brightness</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeIcon" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeIcon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, icon</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, icon</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeIconTextOverride" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeIconTextOverride">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeItemPlural1" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeItemPlural1">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeItemPlural2" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeItemPlural2">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeItemPlural3" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeItemPlural3">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeItemPlural4" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeItemPlural4">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeItemPlural5" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeItemPlural5">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeItemPlural6" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeItemPlural6">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeItemPlural7" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeItemPlural7">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! items</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeItemSingular" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeItemSingular">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! item</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! item</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BadgeItemTextOverride" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BadgeItemTextOverride">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! %3!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, %2!u! %3!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BasicRatingString" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BasicRatingString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rating, %1 of %2</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Rating, %1 of %2</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BreadcrumbBarItemLocalizedControlType" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/BreadcrumbBarItemLocalizedControlType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>breadcrumb bar item</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>breadcrumb bar item</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CancelDraggingString" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/CancelDraggingString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cancel dragging %1!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Cancel dragging %1!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CommandBarFlyoutAppBarButtonLocalizedControlType" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/CommandBarFlyoutAppBarButtonLocalizedControlType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>menu item</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>menu item</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CommandBarFlyoutAppBarToggleButtonLocalizedControlType" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/CommandBarFlyoutAppBarToggleButtonLocalizedControlType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>menu item</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>menu item</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CommandBarFlyoutCommandBarLocalizedControlType" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/CommandBarFlyoutCommandBarLocalizedControlType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>menu</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>menu</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CommunityRatingString" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/CommunityRatingString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Community Rating, %1 of %2</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Community Rating, %1 of %2</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ContentHSVComboBoxItem" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ContentHSVComboBoxItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>HSV</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>HSV</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ContentRGBComboBoxItem" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ContentRGBComboBoxItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>RGB</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>RGB</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DefaultItemString" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/DefaultItemString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Item</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Item</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DownloadWebView2Runtime" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/DownloadWebView2Runtime">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Download and install WebView2 Runtime</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DropIntoNodeString" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/DropIntoNodeString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Drop %1!s! into %2!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Drop %1!s! into %2!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="FallBackPlaceString" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/FallBackPlaceString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Place %1!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Place %1!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="GroupName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/GroupName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Group</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Group</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HelpTextColorSpectrum" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/HelpTextColorSpectrum">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>2D navigation with arrow keys</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>2D navigation with arrow keys</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HelpTextMoreButton" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/HelpTextMoreButton">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Invoke to show or hide the text entry fields.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Invoke to show or hide the text entry fields.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarCloseButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarCloseButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarCloseButtonTooltip" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarCloseButtonTooltip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarClosedNotification" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarClosedNotification">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>InfoBar dismissed</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>InfoBar dismissed</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarCustomLandmarkName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarCustomLandmarkName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>InfoBar</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>InfoBar</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarIconSeverityErrorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarIconSeverityErrorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Error icon</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Error icon</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarIconSeverityInformationalName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarIconSeverityInformationalName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Informational icon</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Informational icon</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarIconSeveritySuccessName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarIconSeveritySuccessName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Success icon</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Success icon</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarIconSeverityWarningName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarIconSeverityWarningName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Warning icon</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Warning icon</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarOpenedNotification" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarOpenedNotification">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s! %2!s! %3!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s! %2!s! %3!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarSeverityErrorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarSeverityErrorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Info message, severity error</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Info message, severity error</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarSeverityInformationalName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarSeverityInformationalName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Info message, severity informational</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Info message, severity informational</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarSeveritySuccessName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarSeveritySuccessName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Info message, severity success</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Info message, severity success</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InfoBarSeverityWarningName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/InfoBarSeverityWarningName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Info message, severity warning</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Info message, severity warning</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LocalizedControlTypeColorSpectrum" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/LocalizedControlTypeColorSpectrum">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>2D slider</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>2D slider</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationBackButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationBackButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Back</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Back</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationBackButtonToolTip" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationBackButtonToolTip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Back</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Back</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationButtonClosedName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationButtonClosedName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Open Navigation</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Open Navigation</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationButtonOpenName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationButtonOpenName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close Navigation</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Close Navigation</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationCloseButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationCloseButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationOverflowButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationOverflowButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationOverflowButtonText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationOverflowButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationOverflowButtonToolTip" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationOverflowButtonToolTip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationViewItemDefaultControlName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationViewItemDefaultControlName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>NavigationViewItem</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>NavigationViewItem</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NavigationViewSearchButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NavigationViewSearchButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Click to search</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Click to search</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NumberBoxDownSpinButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NumberBoxDownSpinButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decrease</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Decrease</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NumberBoxMaximumValueStatus" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NumberBoxMaximumValueStatus">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Maximum</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Maximum</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NumberBoxMinimumValueStatus" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NumberBoxMinimumValueStatus">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Minimum</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Minimum</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="NumberBoxUpSpinButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/NumberBoxUpSpinButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Increase</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Increase</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PagerControlFirstPageButtonText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PagerControlFirstPageButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>First page</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>First page</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PagerControlLastPageButtonText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PagerControlLastPageButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Last page</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Last page</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PagerControlNextPageButtonText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PagerControlNextPageButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Next page</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Next page</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PagerControlPageText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PagerControlPageText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Page</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Page</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PagerControlPrefixText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PagerControlPrefixText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Page</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Page</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PagerControlPreviousPageButtonText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PagerControlPreviousPageButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Previous page</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Previous page</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PagerControlSuffixText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PagerControlSuffixText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>of</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>of</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PersonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PersonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Person</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Person</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PipsPagerNameText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PipsPagerNameText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Pager</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Pager</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PipsPagerNextPageButtonText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PipsPagerNextPageButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Next Page</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Next Page</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PipsPagerPageText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PipsPagerPageText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Page</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Page</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PipsPagerPreviousPageButtonText" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PipsPagerPreviousPageButtonText">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Previous Page</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Previous Page</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceAfterString" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PlaceAfterString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Place %1!s! after %2!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Place %1!s! after %2!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceBeforeString" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PlaceBeforeString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Place %1!s! before %2!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Place %1!s! before %2!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PlaceBetweenString" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/PlaceBetweenString">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Place %1!s! between %2!s! and %3!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Place %1!s! between %2!s! and %3!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ProgressBarErrorStatus" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ProgressBarErrorStatus">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Error</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Error</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ProgressBarIndeterminateStatus" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ProgressBarIndeterminateStatus">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Busy</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Busy</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ProgressBarPausedStatus" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ProgressBarPausedStatus">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Paused</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Paused</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ProgressRingIndeterminateStatus" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ProgressRingIndeterminateStatus">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Busy</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Busy</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ProgressRingName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ProgressRingName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>ProgressRing</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>ProgressRing</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ProofingMenuItemLabel" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ProofingMenuItemLabel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Proofing</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Proofing</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RatingControlName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/RatingControlName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value/>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RatingLocalizedControlType" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/RatingLocalizedControlType">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rating Slider</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Rating Slider</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RatingsControlName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/RatingsControlName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value/>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RatingUnset" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/RatingUnset">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rating Unset</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Rating Unset</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SettingsButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/SettingsButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Settings</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Settings</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplitButtonSecondaryButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/SplitButtonSecondaryButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>More Options</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>More options</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TabViewAddButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TabViewAddButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add New Tab</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Add New Tab</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TabViewAddButtonTooltip" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TabViewAddButtonTooltip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Add new tab</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Add new tab</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TabViewCloseButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TabViewCloseButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close Tab</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Close Tab</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TabViewCloseButtonTooltip" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TabViewCloseButtonTooltip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close tab</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Close tab</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TabViewCloseButtonTooltipWithKA" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TabViewCloseButtonTooltipWithKA">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close tab (Ctrl+F4)</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Close tab (Ctrl+F4)</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TabViewScrollDecreaseButtonTooltip" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TabViewScrollDecreaseButtonTooltip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Scroll tab list backward</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Scroll tab list backward</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TabViewScrollIncreaseButtonTooltip" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TabViewScrollIncreaseButtonTooltip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Scroll tab list forward</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Scroll tab list forward</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TeachingTipAlternateCloseButtonName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TeachingTipAlternateCloseButtonName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TeachingTipAlternateCloseButtonTooltip" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TeachingTipAlternateCloseButtonTooltip">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Close</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TeachingTipCustomLandmarkName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TeachingTipCustomLandmarkName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Tip</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Tip</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TeachingTipNotification" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TeachingTipNotification">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Press F6 to go to new notification from %1!s!, %2!s!.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Press F6 to go to new notification from %1!s!, %2!s!.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TeachingTipNotificationWithoutAppName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TeachingTipNotificationWithoutAppName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Press F6 to go to new notification, %1!s!.</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Press F6 to go to new notification, %1!s!.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextAlphaLabel" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextAlphaLabel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Opacity</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Opacity</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextBlueLabel" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextBlueLabel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Blue</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Blue</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandDescriptionBold" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandDescriptionBold">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Bold the selected text</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Bold the selected text</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandDescriptionCopy" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandDescriptionCopy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Copy the selected content to the clipboard</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Copy the selected content to the clipboard</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandDescriptionCut" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandDescriptionCut">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Remove the selected content and put it on the clipboard</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Remove the selected content and put it on the clipboard</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandDescriptionItalic" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandDescriptionItalic">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Italicize the selected text</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Italicise the selected text</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandDescriptionPaste" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandDescriptionPaste">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Insert the contents of the clipboard at the current location</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Insert the contents of the clipboard at the current location</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandDescriptionRedo" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandDescriptionRedo">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Repeat the most recently undone action</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Repeat the most recently undone action</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandDescriptionSelectAll" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandDescriptionSelectAll">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select all content</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Select all content</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandDescriptionUnderline" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandDescriptionUnderline">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Underline the selected text</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Underline the selected text</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandDescriptionUndo" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandDescriptionUndo">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Reverse the most recent action</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Reverse the most recent action</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandKeyboardAcceleratorKeyBold" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandKeyboardAcceleratorKeyBold">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>B</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>B</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandKeyboardAcceleratorKeyCopy" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandKeyboardAcceleratorKeyCopy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>C</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>C</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandKeyboardAcceleratorKeyCut" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandKeyboardAcceleratorKeyCut">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>X</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>X</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandKeyboardAcceleratorKeyItalic" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandKeyboardAcceleratorKeyItalic">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>I</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>I</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandKeyboardAcceleratorKeyPaste" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandKeyboardAcceleratorKeyPaste">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>V</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>V</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandKeyboardAcceleratorKeyRedo" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandKeyboardAcceleratorKeyRedo">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Y</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Y</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandKeyboardAcceleratorKeySelectAll" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandKeyboardAcceleratorKeySelectAll">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>A</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>A</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandKeyboardAcceleratorKeyUnderline" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandKeyboardAcceleratorKeyUnderline">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>U</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>U</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandKeyboardAcceleratorKeyUndo" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandKeyboardAcceleratorKeyUndo">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Z</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Z</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandLabelBold" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandLabelBold">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Bold</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Bold</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandLabelCopy" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandLabelCopy">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Copy</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Copy</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandLabelCut" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandLabelCut">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Cut</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Cut</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandLabelItalic" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandLabelItalic">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Italic</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Italic</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandLabelPaste" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandLabelPaste">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Paste</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Paste</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandLabelRedo" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandLabelRedo">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Redo</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Redo</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandLabelSelectAll" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandLabelSelectAll">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Select All</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Select All</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandLabelUnderline" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandLabelUnderline">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Underline</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Underline</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextCommandLabelUndo" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextCommandLabelUndo">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Undo</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Undo</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextGreenLabel" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextGreenLabel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Green</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Green</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextHueLabel" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextHueLabel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Hue</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Hue</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextMoreButtonLabelCollapsed" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextMoreButtonLabelCollapsed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>More</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextMoreButtonLabelExpanded" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextMoreButtonLabelExpanded">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Less</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Less</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextRedLabel" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextRedLabel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Red</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Red</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextSaturationLabel" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextSaturationLabel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Saturation</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Saturation</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="TextValueLabel" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/TextValueLabel">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Value</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Value</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToolTipStringAlphaSlider" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ToolTipStringAlphaSlider">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!u!%% opacity</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!u!%% opacity</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToolTipStringHueSliderWithColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ToolTipStringHueSliderWithColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Hue %1!u! (%2!s!)</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Hue %1!u! (%2!s!)</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToolTipStringHueSliderWithoutColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ToolTipStringHueSliderWithoutColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Hue %1!u!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Hue %1!u!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToolTipStringSaturationSliderWithColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ToolTipStringSaturationSliderWithColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Saturation %1!u! (%2!s!)</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Saturation %1!u! (%2!s!)</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToolTipStringSaturationSliderWithoutColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ToolTipStringSaturationSliderWithoutColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Saturation %1!u!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Saturation %1!u!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToolTipStringValueSliderWithColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ToolTipStringValueSliderWithColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Value %1!u! (%2!s!)</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Value %1!u! (%2!s!)</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ToolTipStringValueSliderWithoutColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ToolTipStringValueSliderWithoutColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Value %1!u!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Value %1!u!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueStringColorSpectrumWithColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ValueStringColorSpectrumWithColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!s!, Hue %2!u!, Saturation %3!u!, Value %4!u!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!s!, Hue %2!u!, Saturation %3!u!, Brightness %4!u!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueStringColorSpectrumWithoutColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ValueStringColorSpectrumWithoutColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Hue %1!u!, Saturation %2!u!, Value %3!u!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Hue %1!u!, Saturation %2!u!, Brightness %3!u!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueStringHueSliderWithColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ValueStringHueSliderWithColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!u!, %2!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!u!, %2!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueStringHueSliderWithoutColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ValueStringHueSliderWithoutColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!u!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!u!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueStringSaturationSliderWithColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ValueStringSaturationSliderWithColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!u!, %2!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!u!, %2!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueStringSaturationSliderWithoutColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ValueStringSaturationSliderWithoutColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!u!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!u!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueStringValueSliderWithColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ValueStringValueSliderWithColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!u!, %2!s!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!u!, %2!s!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ValueStringValueSliderWithoutColorName" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/ValueStringValueSliderWithoutColorName">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>%1!u!</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>%1!u!</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WarningSuitableWebView2NotFound" uri="ms-resource://9f983140-2ae4-4fda-9025-e7c8affe256e/Microsoft.UI.Xaml/Resources/WarningSuitableWebView2NotFound">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>A suitable version of Microsoft Edge WebView2 Runtime was not detected. </Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

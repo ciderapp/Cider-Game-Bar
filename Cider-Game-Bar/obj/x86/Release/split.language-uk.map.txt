@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-uk"
+"ResourceDimensions"		"language-uk-ua"
+
+[Files]
+"C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\obj\x86\Release\split.language-uk.pri"			"resources.pri"

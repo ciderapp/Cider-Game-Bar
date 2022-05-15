@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SYKUNDO-MK2</Machine>
+    <WindowsUser>cryptofyre</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>9f983140-2ae4-4fda-9025-e7c8affe256e</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Cider Collective</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>DFC1F775A74EEFBA2BBD01A5CDE574F8169FD2EDC16266B1ED8CE85AAAE6193F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9f983140-2ae4-4fda-9025-e7c8affe256e_1.0.0.0_x64__14qtrk0wwstqg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9f983140-2ae4-4fda-9025-e7c8affe256e_14qtrk0wwstqg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9f983140-2ae4-4fda-9025-e7c8affe256e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Cider Collective</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:47.904</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.514</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2022-05-15T01:09:56.303</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.155</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:10.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:10.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:10.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:10.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.230</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.245</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.326</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.962</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.942</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.719</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.753</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.787</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.851</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.829</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.811</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:10.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:10.347</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:10.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:10.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:10.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.405</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2022-05-15T03:58:09.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Cider-Game-Bar.dll">
+      <PackagePath>Cider-Game-Bar.dll</PackagePath>
+      <Modified>2022-05-15T03:58:47.732</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Cider-Game-Bar.exe">
+      <PackagePath>Cider-Game-Bar.exe</PackagePath>
+      <Modified>2022-05-15T03:58:47.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Cider-Game-Bar.pdb">
+      <PackagePath>Cider-Game-Bar.pdb</PackagePath>
+      <Modified>2022-05-15T03:58:47.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2021-10-10T11:48:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.Gaming.XboxGameBar.Authentication.winmd">
+      <PackagePath>Microsoft.Gaming.XboxGameBar.Authentication.winmd</PackagePath>
+      <Modified>2021-04-14T19:43:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.Gaming.XboxGameBar.dll">
+      <PackagePath>Microsoft.Gaming.XboxGameBar.dll</PackagePath>
+      <Modified>2021-04-14T19:43:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.Gaming.XboxGameBar.Private.winmd">
+      <PackagePath>Microsoft.Gaming.XboxGameBar.Private.winmd</PackagePath>
+      <Modified>2021-04-14T19:43:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.Gaming.XboxGameBar.Restricted.winmd">
+      <PackagePath>Microsoft.Gaming.XboxGameBar.Restricted.winmd</PackagePath>
+      <Modified>2021-04-14T19:43:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.Gaming.XboxGameBar.winmd">
+      <PackagePath>Microsoft.Gaming.XboxGameBar.winmd</PackagePath>
+      <Modified>2021-04-14T19:43:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.UI.Xaml.dll">
+      <PackagePath>Microsoft.UI.Xaml.dll</PackagePath>
+      <Modified>2022-04-14T00:39:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.UI.Xaml.winmd">
+      <PackagePath>Microsoft.UI.Xaml.winmd</PackagePath>
+      <Modified>2022-04-14T00:39:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png">
+      <PackagePath>Microsoft.UI.Xaml\Assets\NoiseAsset_256X256_PNG.png</PackagePath>
+      <Modified>2022-04-14T00:39:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.Web.WebView2.Core.dll">
+      <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
+      <Modified>2022-05-05T08:38:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\Microsoft.Web.WebView2.Core.winmd">
+      <PackagePath>Microsoft.Web.WebView2.Core.winmd</PackagePath>
+      <Modified>2022-05-05T08:38:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\NoiseAsset_256x256_PNG.png">
+      <PackagePath>NoiseAsset_256x256_PNG.png</PackagePath>
+      <Modified>2022-04-14T00:39:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2022-05-15T03:58:25.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\ilc\WebView2Loader.dll">
+      <PackagePath>WebView2Loader.dll</PackagePath>
+      <Modified>2022-05-05T08:38:00.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx">
+      <Name>Microsoft.NET.Native.Framework.2.2</Name>
+      <Version>2.2.29512.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.2, MinVersion = 2.2.29512.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.sharedlibrary\2.2.8-rel-30601-02\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm64.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\arm64\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.2</Name>
+      <Version>2.2.28604.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.2, MinVersion = 2.2.28604.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.native.compiler\2.2.11-rel-30601-02\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\">
+      <Name>Microsoft.VCLibs.140.00.UWPDesktop</Name>
+      <Version>14.0.30704.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.UWPDesktop, MinVersion = 14.0.30704.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs.Desktop\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.Desktop.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

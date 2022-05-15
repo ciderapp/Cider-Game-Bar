@@ -9,8 +9,8 @@
 
   <Identity
     Name="9f983140-2ae4-4fda-9025-e7c8affe256e"
-    Publisher="CN=cryptofyre"
-    Version="1.0.0.0" />
+    Publisher="CN=Cider Collective"
+    Version="1.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="9f983140-2ae4-4fda-9025-e7c8affe256e" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 

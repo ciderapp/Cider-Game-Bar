@@ -1,0 +1,2 @@
+MainPackage=C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x86\Release\Cider-Game-Bar_1.0.1.0_x86.msix
+SymbolPackage=C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\obj\x86\Release\Symbols\Cider-Game-Bar_1.0.1.0_x86.appxsym

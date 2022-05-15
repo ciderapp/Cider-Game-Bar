@@ -9,5 +9,9 @@
     <AppIconSource>C:\Users\cryptofyre\IdeaProjects\Cider\resources\icons\icon.png</AppIconSource>
     <SplashScreenSource>C:\Users\cryptofyre\IdeaProjects\Cider\resources\icons\icon.png</SplashScreenSource>
     <PackageLogoSource>C:\Users\cryptofyre\IdeaProjects\Cider\resources\icons\icon.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>True</PackageOptionalProjectsInIdeBuilds>
   </PropertyGroup>
 </Project>

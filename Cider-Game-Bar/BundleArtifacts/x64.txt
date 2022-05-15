@@ -1,0 +1,6 @@
+MainPackage=C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\Cider-Game-Bar_1.0.1.0_x64.msix
+SymbolPackage=C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\obj\x64\Release\Symbols\Cider-Game-Bar_1.0.1.0_x64.appxsym
+ResourcePack=C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\Cider-Game-Bar_1.0.1.0_scale-100.msix
+ResourcePack=C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\Cider-Game-Bar_1.0.1.0_scale-125.msix
+ResourcePack=C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\Cider-Game-Bar_1.0.1.0_scale-150.msix
+ResourcePack=C:\Users\cryptofyre\source\repos\Cider-Game-Bar\Cider-Game-Bar\bin\x64\Release\Cider-Game-Bar_1.0.1.0_scale-400.msix
