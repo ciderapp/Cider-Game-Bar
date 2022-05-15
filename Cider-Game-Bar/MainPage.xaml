@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="Cider_Game_Bar.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Cider_Game_Bar"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:control="using:Microsoft.UI.Xaml.Controls"
+    mc:Ignorable="d" Width="600" Height="300" MaxWidth="600" MaxHeight="300">
+
+    <Grid HorizontalAlignment="Left" Width="600">
+        <TextBlock Margin="0,159,0,0" TextWrapping="Wrap" Text="This program requires Cider. If you don't already have it download it by pressing the button below." FontSize="16" FontWeight="Bold" FontFamily="Segoe UI Variable Text" Foreground="#FF545454" HorizontalAlignment="Center" Width="398" Height="56" VerticalAlignment="Top"/>
+        <Button Content="Get Cider" Margin="0,0,0,43" VerticalAlignment="Bottom" Height="39" Width="127" FontWeight="Bold" FontSize="20" FontFamily="Segoe UI Variable Display" HorizontalAlignment="Center"/>
+        <TextBlock Margin="80,90,0,0" TextWrapping="Wrap" Text="Press Win + G to continue" VerticalAlignment="Top" FontWeight="Bold" FontSize="36" FontFamily="Segoe UI Variable Display Semilight" Height="50" HorizontalAlignment="Left" Width="459"/>
+
+    </Grid>
+</Page>
