@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net;
 using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
@@ -26,11 +27,28 @@ namespace Cider_Game_Bar
 
             try
             {
-                MainView.Source = new Uri("http://localhost:6942");
+                MainView.Source = new Uri(GetNetworkIPAddress());
             } catch (Exception e)
             {
                 Console.WriteLine(e.ToString());
             }
+        }
+
+        private string GetNetworkIPAddress()
+        {
+            IPHostEntry host;
+            List<string> ls = new List<string>();
+            host = Dns.GetHostEntry(Dns.GetHostName());
+
+            foreach (IPAddress ip in host.AddressList)
+            {
+                if (ip.AddressFamily.ToString() == "InterNetwork")
+                {
+                    ls.Add("http://" + ip.ToString() + ":6942");
+                };
+            }
+
+            return ls.First();
         }
     }
 }
