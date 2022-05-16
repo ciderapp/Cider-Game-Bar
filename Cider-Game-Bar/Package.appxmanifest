@@ -98,5 +98,8 @@
 
   <Capabilities>
     <Capability Name="internetClient" />
+    <Capability Name="internetClientServer"/>
+    <uap3:Capability Name="backgroundMediaPlayback"/>
+    <Capability Name="privateNetworkClientServer"/>
   </Capabilities>
 </Package>
