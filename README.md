@@ -2,7 +2,8 @@
  An open-source UWP Game Bar module for use with Cider.
 
 ## How to Install Widget
- * This widget requires its certificate to be installed **Trusted Root Certificates Authorities**. Continue reading to learn how to.
+ * Requires [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section).
+ * Requires its certificate to be installed under **Trusted Root Certificates Authorities**. Continue reading to learn how to.
  
  ### Installation of Certificate
   1. Download the certificate file (.cer) and open it.
